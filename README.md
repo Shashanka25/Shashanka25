@@ -1,5 +1,6 @@
 ## ✨ About Me
 > *"First, solve the problem. Then, write the code."* — John Johnson
+
 🔭 **Building:** AI/ML pipelines & C++ backend systems  
 🌱 **Learning:** Deep Learning · Transformers · MLOps  
 👯 **Collaborating on:** Open-source ML projects  
