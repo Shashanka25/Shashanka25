@@ -1,6 +1,15 @@
 # 💫 About Me:
 🔭 I’m currently working on AI/ML Projects<br>👯 I’m looking to collaborate on my ML Projects<br>🌱 I’m currently learning DL
 
+## ✨ About Me
+> *"First, solve the problem. Then, write the code."* — John Johnson
+🔭 **Building:** AI/ML pipelines & C++ backend systems  
+🌱 **Learning:** Deep Learning · Transformers · MLOps  
+👯 **Collaborating on:** Open-source ML projects  
+💡 **Interests:** Graph Algorithms · Computer Vision · Systems Design  
+🏗️ **Tech Stack:** `C++` `Python` `TensorFlow` `SQLite` `CMake`  
+📍 India
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shankkz_25?igsh=MW55OXo5amtoZjdhdg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashanka-biswas-b09967395) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashankam25@gmail.com) 
