@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on AI/ML Projects<br>👯 I’m looking to collaborate on my ML Projects<br>🌱 I’m currently learning DL
-
 ## ✨ About Me
 > *"First, solve the problem. Then, write the code."* — John Johnson
 🔭 **Building:** AI/ML pipelines & C++ backend systems  
